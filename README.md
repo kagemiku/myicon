@@ -1,2 +1,3 @@
 # myicon
-My icons
+KAGE's icons.
+
