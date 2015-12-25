@@ -10,8 +10,9 @@ KAGE's icons.
 
 created by [iconDecotter](http://icondecotter.jp/)
 
+# Author
+KAGE
+
 # License
 MIT License
 
-# Author
-KAGE
