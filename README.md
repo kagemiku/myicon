@@ -10,6 +10,11 @@ KAGE's icons.
 
 created by [iconDecotter](http://icondecotter.jp/)
 
+## New Year
+![christmas](icons/new_year.png)
+
+created by [iconDecotter](http://icondecotter.jp/)
+
 # Author
 KAGE
 
