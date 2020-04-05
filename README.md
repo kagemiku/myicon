@@ -1,12 +1,15 @@
 # myicon
-KAGE's icons.
+kagemiku's icons.
 
 # Gallery
 ## Orignal
 ![original](icons/original.png)
 
+## Pinecone
+![pinecone](icons/pinecone.jpg)
+
 # Author
-KAGE
+kagemiku
 
 # License
 MIT License
